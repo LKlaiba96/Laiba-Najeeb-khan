@@ -431,8 +431,6 @@
             </div>
            </footer>
            <!-- Footer end -->
-
-           
 *{
     margin: 0;
     padding: 0;
